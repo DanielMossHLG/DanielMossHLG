@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there! I'm Daniel Moss, but most folks just call me *Moss*
 
-<!--
-**DanielMossHLG/DanielMossHLG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a game developer at <a href="https://hyperluminalgames.com/">Hyper Luminal Games</a>
+I use C# and Unity to create games, but also have professional experience using JavaScript, PixiJS, Python, React, HTML/CSS and PostgreSQL.
+I've dabbled a bit here and there with C++ and Unreal Engine.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+## About me
+  - Mathematical mindset; I studied maths and physics before my decision to change career paths
+  - Desire to build fun experiences for users
+  - I also work as a voice actor!
+  - I'm probably gluten intolerant but I love pizza too much to come to terms with that fact
+  - Sadly I cannot get over my League of Legends addiction...
+  </p>
+  
+<img align='center' src="https://c.tenor.com/mErcWBSg078AAAAM/seal-lol.gif" />
